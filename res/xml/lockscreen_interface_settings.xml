@@ -23,12 +23,15 @@
          android:title="@string/screen_security_category"
          android:summary="@string/screen_security_summary" />
 
+<<<<<<< HEAD
      <CheckBoxPreference
         android:key="pref_lockscreen_vibration"
         android:title="@string/lockscreen_vibration_title"
         android:summary="@string/lockscreen_vibration_summary"
         android:defaultValue="true"/>
 
+=======
+>>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
      <ListPreference
         android:key="lockscreen_background"
         android:persistent="false"
