@@ -1364,16 +1364,6 @@
 
     <!-- DHCP lease times for tethering settings -->
     <string-array name="tethering_lease_time_entries">
-<<<<<<< HEAD
-        <item>30 minutes</item>
-        <!-- keep this in sync with DEFAULT_LEASE_TIME in system/netd/TetherController.h -->
-        <item>1 hour (default)</item>
-        <item>2 hours</item>
-        <item>4 hours</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-=======
         <item>@string/dhcp_lease_30mn</item>
         <!-- keep this in sync with DEFAULT_LEASE_TIME in system/netd/TetherController.h -->
         <item>@string/dhcp_lease_1h</item>
@@ -1382,7 +1372,6 @@
         <item>@string/dhcp_lease_6h</item>
         <item>@string/dhcp_lease_12h</item>
         <item>@string/dhcp_lease_24h</item>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     </string-array>
 
     <!-- Do not translate. -->
