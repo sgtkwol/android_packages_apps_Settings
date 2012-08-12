@@ -69,13 +69,10 @@ public class StatusBar extends SettingsPreferenceFragment implements OnPreferenc
 
     private CheckBoxPreference mCombinedBarAutoHide;
 
-<<<<<<< HEAD
     private ListPreference mStatusbarTransparency;
 
     private CheckBoxPreference mStatusBarHwRendering;
 
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     private CheckBoxPreference mStatusBarNotifCount;
 
     private PreferenceCategory mPrefCategoryGeneral;
