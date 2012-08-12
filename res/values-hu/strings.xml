@@ -1941,12 +1941,8 @@
     <string name="cm_sound_mode_sound">Hang</string>
     <string name="cm_sound_mode_soundVibrate">Hang+Rezgés</string>
     <string name="pref_flash_mode_title">Villanófény kapcsoló</string>
-<<<<<<< HEAD
     <string name="pref_flash_mode_summary">Villanófény erejének beállítása</string>
-
     <string name="toggles_not_enough_space">Hat kapcsolóra van korlátozva</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Power Widget, Haptic feedback #CM -->
     <string name="expanded_haptic_feedback_title">Érintési visszajelzés</string>
@@ -2246,8 +2242,6 @@
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Értesítések száma</string>
     <string name="status_bar_notif_count_summary">Folyamatban lévő értesítések száma a stástusz soron</string>
-<<<<<<< HEAD
-=======
 
     <string name="increasing_ring_title">Emelkedő csengőhang</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
@@ -2263,5 +2257,5 @@
     <string name="increasing_ring_interval_3seconds">3 másodperc</string>
     <string name="increasing_ring_interval_5seconds">5 másodperc</string>
     <string name="increasing_ring_interval_10seconds">10 másodperc</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
+
 </resources>
