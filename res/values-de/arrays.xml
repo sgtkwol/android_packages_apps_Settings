@@ -403,7 +403,6 @@
       <item>Erweitert</item>
       <item>Keine</item>
   </string-array>
-<<<<<<< HEAD
 
   <!-- DHCP lease times for tethering settings -->
   <string-array name="tethering_lease_time_entries">
@@ -415,6 +414,5 @@
       <item>12 Stunden</item>
       <item>24 Stunden</item>
   </string-array>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
+
 </resources>
