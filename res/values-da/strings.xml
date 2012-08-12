@@ -1694,7 +1694,6 @@
     <!-- Power Widget #CM -->
     <string name="power_widget_title">Strøm-widget</string>
     <string name="title_expanded_widget">Vis strøm-widget</string>
-<<<<<<< HEAD
     <string name="summary_expanded_widget">Vis strøm-widget i meddelelsesskuffe</string>
     <string name="title_expanded_hide_onchange">Skjul ved ændring</string>
     <string name="summary_expanded_hide_onchange">Skjul meddelelsesskuffen efter at have skiftet en widget-knap</string>
@@ -1702,11 +1701,6 @@
     <string name="summary_expanded_hide_indicator">Skjul strøm-widget-indikatorerne</string>
     <string name="title_expanded_hide_scrollbar">Skjul scrollbar</string>
     <string name="summary_expanded_hide_scrollbar">Skjul scrollbaren, når mere end det maksimale antal widget-knapper vises</string>
-=======
-    <string name="title_expanded_hide_onchange">Skjul ved ændring</string>
-    <string name="title_expanded_hide_indicator">Skjul indikator</string>
-    <string name="title_expanded_hide_scrollbar">Skjul scrollbar</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="title_widget_picker">Widget-knapper</string>
     <string name="summary_widget_picker">Vælg hvilke knapper, som skal vises i strøm-widgeten</string>
     <string name="title_widget_order">Rækkefølge på widget-knapper</string>
@@ -1738,13 +1732,9 @@
     <string name="cm_brightness_mode_auto">Automatisk</string>
     <string name="cm_brightness_mode_dim">Dæmp</string>
     <string name="pref_network_mode_title">Netværkstilstande</string>
-<<<<<<< HEAD
     <string name="pref_network_mode_summary">Vælg hvordan netværkstilstandsknappen skifter tilstande</string>
     <string name="pref_screentimeout_mode_title">Tilstande for skærmtimeout</string>
     <string name="pref_screentimeout_mode_summary">Vælg hvordan skærmtimeoutsknappen skifter tilstande</string>
-=======
-    <string name="pref_screentimeout_mode_title">Tilstande for skærmtimeout</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="pref_ring_mode_title">Lydtilstande</string>
     <string name="pref_ring_mode_summary">Vælg hvordan lydtilstandsknappen skifter tilstande</string>
     <string name="cm_sound_mode_silent">Lydløs</string>
@@ -1752,19 +1742,12 @@
     <string name="cm_sound_mode_sound">Lyd</string>
     <string name="cm_sound_mode_soundVibrate">Lyd+Vibrér</string>
     <string name="pref_flash_mode_title">Flash mode</string>
-<<<<<<< HEAD
     <string name="pref_flash_mode_summary">Vælg High / Death Ray</string>
-
     <string name="toggles_not_enough_space">Pladsen er begrænset til seks knapper</string>
 
     <!-- Power Widget, Haptic feedback #CM -->
     <string name="expanded_haptic_feedback_title">Haptisk feedback</string>
     <string name="expanded_haptic_feedback_summary">Slå haptisk feedback til og fra</string>
-=======
-
-    <!-- Power Widget, Haptic feedback #CM -->
-    <string name="expanded_haptic_feedback_title">Haptisk feedback</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Status bar #CM -->
     <string name="combined_status_bar_title">@string/status_bar_title</string>
