@@ -30,10 +30,7 @@ import android.graphics.Bitmap;
 import android.graphics.Rect;
 import android.net.Uri;
 import android.os.Bundle;
-<<<<<<< HEAD
 import android.preference.CheckBoxPreference;
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceScreen;
@@ -55,20 +52,14 @@ public class LockscreenInterface extends SettingsPreferenceFragment implements
     public static final String KEY_WEATHER_PREF = "lockscreen_weather";
     public static final String KEY_CALENDAR_PREF = "lockscreen_calendar";
     public static final String KEY_BACKGROUND_PREF = "lockscreen_background";
-<<<<<<< HEAD
     private static final String KEY_LOCKSCREEN_VIBRATION = "pref_lockscreen_vibration";
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     private ListPreference mCustomBackground;
     private Preference mWeatherPref;
     private Preference mCalendarPref;
     private Activity mActivity;
     ContentResolver mResolver;
 
-<<<<<<< HEAD
     private CheckBoxPreference mLockscreenVibration;
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     private File wallpaperImage;
     private File wallpaperTemporary;
     private boolean mIsScreenLarge;
@@ -88,12 +79,9 @@ public class LockscreenInterface extends SettingsPreferenceFragment implements
         wallpaperImage = new File(mActivity.getFilesDir()+"/lockwallpaper");
         wallpaperTemporary = new File(mActivity.getCacheDir()+"/lockwallpaper.tmp");
         updateCustomBackgroundSummary();
-<<<<<<< HEAD
 	mLockscreenVibration = (CheckBoxPreference) findPreference(KEY_LOCKSCREEN_VIBRATION);
         mLockscreenVibration.setChecked(Settings.System.getInt(getActivity().getContentResolver(), 
             Settings.System.LOCKSCREEN_VIBRATION, 1) == 1);
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     }
 
     private void updateCustomBackgroundSummary() {
