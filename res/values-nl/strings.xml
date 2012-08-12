@@ -1698,13 +1698,9 @@
     <!-- Power Widget -->
     <string name="power_widget_title">Energiewidget</string>
     <string name="title_expanded_widget">Toon energiewidget</string>
-<<<<<<< HEAD
     <string name="summary_expanded_widget">Toon energiewidget in het notificatiepaneel</string>
     <string name="title_expanded_hide_onchange">Verberg bij veranderingen</string>
     <string name="summary_expanded_hide_onchange">Verberg het notificatiepaneel als een widgetknop is aangeraakt</string>
-=======
-    <string name="title_expanded_hide_onchange">Verberg bij veranderingen</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="title_expanded_hide_indicator">Verberg indicator</string>
     <string name="title_expanded_hide_scrollbar">Verberg schuifbalk</string>
     <string name="title_widget_picker">Widgetknoppen</string>
@@ -2112,11 +2108,10 @@
     <string name="profile_selected">Geselecteerd profiel: %1$s</string>
     <string name="profile_nfc_text">Een profiel naar een NFC-tag schrijven staat u toe om de tag te raken om dat profiel te kiezen. Een tweede keer raken zal het vorig gekozen profiel selecteren.</string>
 
-<<<<<<< HEAD
+
     <!-- Display Settings : Render effect -->
     <string name="pref_render_effect_title">Rendereffect</string>
     <string name="pref_render_effect_summary">Door het scherm te gebruiken kleuren kiezen</string>
-
     <string name="pref_render_effect_none">Geen rendereffect</string>
     <string name="pref_render_effect_night">Nachtmodus (3700K)</string>
     <string name="pref_render_effect_green">Terminal (groen)</string>
@@ -2129,8 +2124,6 @@
     <string name="pref_render_effect_calibrated_cool">Gekalibreerd (N1) koud</string>
     <string name="pref_render_effect_red">Rood</string>
 
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <!-- Display - Rotation -->
     <string name="display_rotation_title">Rotatie</string>
     <string name="display_rotation_enabled">Ingeschakeld</string>
@@ -2145,11 +2138,7 @@
     <!-- Preference Stub -->
     <string name="stubbed">Voorkeursopvulling</string>
     <string name="stubbed_summary">Tijdelijk opgevuld totdat functionaliteit is toegevoegd</string>
-
-<<<<<<< HEAD
     <string name="toggles_not_enough_space">Max. 6 schakelaars</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_progress_title">Locatie controleren</string>
     <string name="lockscreen_custom_background_title">Achtergrond</string>
     <string name="lockscreen_custom_background_dialog_title">Kleur kiezen</string>
