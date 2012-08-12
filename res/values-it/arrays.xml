@@ -305,11 +305,7 @@
     <item>"Elevato"</item>
   </string-array>
   <string-array name="haptic_feedback_entries">
-<<<<<<< HEAD
-    <item>"Impostazioni globali"</item>
-=======
     <item>"Usa impostazione globale"</item>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <item>"Attivato"</item>
     <item>"Disattivato"</item>
   </string-array>
