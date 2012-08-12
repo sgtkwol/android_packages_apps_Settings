@@ -294,10 +294,7 @@
     <string name="show_owner_info_on_lockscreen_label" msgid="5074906168357568434">"Показывать данные о владельце на экране блокировки"</string>
     <string name="owner_info_settings_title" msgid="2723190010708381889">"Сведения о владельце"</string>
     <string name="owner_info_settings_summary">Данные о владельце на экране блокировки</string>
-<<<<<<< HEAD
     <string name="owner_info_settings_enabled">Включено</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="owner_info_settings_edit_text_hint" msgid="4608681417960923911">"Введите текст для показа на экране блокировки"</string>
     <string name="location_settings_title" msgid="8935806698251432196">"Мое местоположение"</string>
     <string name="security_settings_title" msgid="7945465324818485460">"Безопасность"</string>
@@ -2243,8 +2240,6 @@
 
     <!-- Hostname setting -->
     <string name="device_hostname">Имя хоста</string>
-<<<<<<< HEAD
-=======
 
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Счётчик уведомлений</string>
@@ -2264,5 +2259,4 @@
     <string name="increasing_ring_interval_3seconds">3 секунды</string>
     <string name="increasing_ring_interval_5seconds">5 секунд</string>
     <string name="increasing_ring_interval_10seconds">10 секунд</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 </resources>
