@@ -1804,12 +1804,9 @@
     <string name="cm_sound_mode_sound">Ses</string>
     <string name="cm_sound_mode_soundVibrate">Ses+Titreşim</string>
     <string name="pref_flash_mode_title">El feneri modu</string>
-<<<<<<< HEAD
     <string name="pref_flash_mode_summary">Parlaklık oranını seçin</string>
     <string name="toggles_not_enough_space">6 düğme ile sınırlı</string>
-=======
-
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
+    
     <!-- Power Widget, Haptic feedback #CM -->
     <string name="expanded_haptic_feedback_title">Dokunsal geribildirim</string>
 
