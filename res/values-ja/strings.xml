@@ -1590,11 +1590,8 @@
     <!-- CM String entries bellow -->
     <string name="safe_headset_restore_title">安全なヘッドフォン音量</string>
     <string name="safe_headset_restore_summary">最初にヘッドフォンを接続した時に大音量になるのを防ぐ</string>
-<<<<<<< HEAD
-=======
     <string name="wifi_p2p_on_summary">Wi-Fiダイレクトを有効にする</string>
     <string name="wifi_p2p_settings">Wi-Fiダイレクトの設定</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Advanced tethering settings -->
     <string name="tethering_advanced_text">詳細設定</string>
@@ -2279,9 +2276,6 @@
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">通知の数を表示する</string>
     <string name="status_bar_notif_count_summary">ステータスバーに溜まっている通知の数を表示する</string>
-<<<<<<< HEAD
-=======
-
     <string name="increasing_ring_title">着信音の増加</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
     <string name="checkbox_increasing_ring">有効</string>
@@ -2297,5 +2291,4 @@
     <string name="increasing_ring_interval_5seconds">5 秒</string>
     <string name="increasing_ring_interval_10seconds">10 秒</string>
 
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 </resources>
