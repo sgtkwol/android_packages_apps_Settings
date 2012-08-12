@@ -989,9 +989,6 @@
     <string name="bluetooth_untether_blank" msgid="2871192409329334813">"Se desactivará el anclaje a red de <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="tethering_help_button_text" msgid="656117495547173630">"Ayuda"</string>
     <string name="tethering_advanced_text">Avanzado</string>
-<<<<<<< HEAD
-    <string name="tethering_lease_time_text">Tiempo de concesión DHCP</string>
-=======
     <string name="tethering_lease_time_text">Expiración de DHCP</string>
     <string name="dhcp_lease_30mn">30 minutos</string>
     <string name="dhcp_lease_1h">1 hora (predeterminado)</string>
@@ -1000,7 +997,6 @@
     <string name="dhcp_lease_6h">6 horas</string>
     <string name="dhcp_lease_12h">12 horas</string>
     <string name="dhcp_lease_24h">24 horas</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="network_settings_title" msgid="7967552516440151852">"Redes móviles"</string>
     <string name="location_title" msgid="1029961368397484576">"Mi ubicación"</string>
     <string name="location_network_based" msgid="5569673665032992664">"Ubicación de Google"</string>
@@ -1718,20 +1714,13 @@
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Cancelar"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Otras actualizaciones del sistema"</string>
-<<<<<<< HEAD
 
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <!-- Electron Beam -->
     <string name="display_category_animation_options_title">Animación</string>
     <string name="display_electron_beam_animation_on_title">Animación al encender</string>
     <string name="display_electron_beam_animation_off_title">Animación al apagar</string>
-<<<<<<< HEAD
 
-    <!-- CyanogenMod additional translations -->
-=======
 <!-- CyanogenMod additional translations -->
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Temporary - stubed preference - to be removed once all preferences have been merged #CM -->
     <string name="stubbed">"Preferencias"</string>
@@ -1905,25 +1894,15 @@
 
     <!-- Lock screen background -->
     <string name="lockscreen_custom_background_title">Fondo</string>
-<<<<<<< HEAD
-    <string name="lockscreen_custom_background_dialog_title">Seleccionar color</string>
-    <string name="lockscreen_background_result_successful">Fondo modificado satisfactoriamente</string>
-    <string name="lockscreen_background_result_not_successful">No se ha podido modificar el fondo</string>
-    <string name="lockscreen_background_color_fill">Relleno de color</string>
-    <string name="lockscreen_background_custom_image">Imagen personalizada</string>
-    <string name="lockscreen_background_default_wallpaper">Imagen por defecto</string>
-=======
     <string name="lockscreen_custom_background_dialog_title">Elige color</string>
     <string name="lockscreen_background_result_successful">Fondo modificado correctamente</string>
     <string name="lockscreen_background_result_not_successful">No se ha podido modificar el fondo</string>
     <string name="lockscreen_background_color_fill">Color de relleno</string>
     <string name="lockscreen_background_custom_image">Imagen personalizada</string>
     <string name="lockscreen_background_default_wallpaper">Imagen de fondo actual</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Navigation Bar #CM -->
     <string name="navigation_bar_title">Barra de navegación</string>
-
     <string name="navigation_bar_help_text">1 - Para empezar a editar, toca el candado\n\n2 - Toca cualquier botón para asignar una acción\n\n3 - Mantén presionado un boton para reorganizar\n\n4 - Para guardar, toca el candado nuevamente\n\n5 - Para restaurar la configuración por defecto, toca el icono de resetear\n\n</string>
     <string name="navigation_bar_tips">&#8226; Solo se puede asignar una acción a un boton a la vez\n\n&#8226; El botón de inicio no puede ser reasignado\n\n&#8226; Los botones de los lados, no pueden ser reorganizados</string>
     <string name="navigation_bar_tips_title">Consejos rápidos</string>
@@ -2279,7 +2258,6 @@
     <string name="mod_version_default">"Desconocida"</string>
     <!-- About device screen, build date of ROM. #CM -->
     <string name="build_date">"Fecha de compilación"</string>
-<<<<<<< HEAD
 
     <string name="statusbar_transparency_title">Transparencia</string> 
     <string name="statusbar_transparency_summary">Ajustar transparencia de la barra de estado</string> 
@@ -2305,14 +2283,11 @@
     <string name="recent_apps_font_size_title">Tamaño de la letra</string>
     <string name="recent_apps_font_size_summary">Nombre de la aplicación</string>
 
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">Mostrar icono al usar Stylus</string>
     <string name="stylus_icon_enabled_summary">Mostrar el cursor cuando se arrastra o dibuja con Stylus</string>
     <!-- Hostname setting -->
     <string name="device_hostname">Nombre del dispositivo</string>
-<<<<<<< HEAD
 
     <string name="status_bar_notif_count_title">Conteo de notificaciones</string>
     <string name="status_bar_notif_count_summary">Mostrar numero de notificaciones pendientes en la barra de estado</string>
@@ -2323,23 +2298,15 @@
     <!-- Status bar hardware acceleration -->
     <string name="status_bar_hw_acceleration">Aceleración por hardware</string>
     <string name="status_bar_hw_acceleration_summary">Activa la aceleración por hardware en la barra de estado. Esto podría reducir la duración de la bateria. (requiere reiniciar)</string>
-
     <string name="increasing_ring_title">Tono incremental</string>
+
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
     <string name="checkbox_increasing_ring">Activar</string>
-    <!-- Sound settings screen, the title of the volume bar to adjust the minimum increasing ring volume -->
-    <string name="increasing_ring_min_volume_title">Volumen de inicio</string>
-    <string name="increasing_ring_volume_notice">Nota:\nA medida que el volumen inicial se sitúa por encima del volumen del timbre, el tono de llamada se reproducirá con el volumen del timbre.</string>
-    <string name="increasing_ring_interval_title">Intervalo de incremento</string>
-    <string name="increasing_ring_interval_eachring">En cada tono</string>
-    <string name="increasing_ring_interval_half_second">0.5 segundos</string>
-    <string name="increasing_ring_interval_1second">1 segundo</string>
-=======
+  
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Mostrar contador notificaciones</string>
     <string name="status_bar_notif_count_summary">Mostrar el número de notificaciones pendientes en la barra de estado</string>
 
-    <string name="increasing_ring_title">Volumen ascendente</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increas in volume -->
     <string name="checkbox_increasing_ring">Activar volumen ascendente</string>
     <!-- Sound settings screen, the title of the volume bar to adjust the minimum increasing ring volume -->
@@ -2349,7 +2316,6 @@
     <string name="increasing_ring_interval_eachring">Tono de llamada</string>
     <string name="increasing_ring_interval_half_second">Medio segundo</string>
     <string name="increasing_ring_interval_1second">Segundo</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="increasing_ring_interval_2seconds">2 segundos</string>
     <string name="increasing_ring_interval_3seconds">3 segundos</string>
     <string name="increasing_ring_interval_5seconds">5 segundos</string>
