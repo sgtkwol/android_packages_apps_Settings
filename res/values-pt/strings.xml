@@ -2216,10 +2216,7 @@
     <string name="calendar_metadata_none">Não exibir</string>
     <string name="calendar_metadata_first_line">Exibir primeira linha</string>
     <string name="calendar_metadata_all">Exibir tudo</string>
-<<<<<<< HEAD
     <string name="owner_info_settings_enabled">Ativado</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="display_category_animation_options_title">Animação</string>
     <string name="display_electron_beam_animation_on_title">Animação ao ligar a tela</string>
     <string name="display_electron_beam_animation_off_title">Animação ao desligar a tela</string>
@@ -2232,10 +2229,7 @@
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Mostrar contador de notificação</string>
     <string name="status_bar_notif_count_summary">Mostrar o número de notificações pendentes na barra de status</string>
-<<<<<<< HEAD
     <string name="toggles_not_enough_space">O Espaço é limitado em seis botões</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_progress_title">Verificando localização</string>
     <string name="lockscreen_custom_background_title">Plano de Fundo</string>
     <string name="lockscreen_custom_background_dialog_title">Escolher cor</string>
@@ -2262,10 +2256,7 @@
     <string name="battery_light_low_color_title">Bateria baixa</string>
     <string name="battery_light_medium_color_title">Carregando</string>
     <string name="battery_light_full_color_title">Totalmente carregada</string>
-<<<<<<< HEAD
     <string name="lockpattern_settings_enable_error_path_title">Exibir erro no padrão</string>
-</resources>
-=======
     <string name="increasing_ring_title">Toque de celular crescente</string>
     <string name="checkbox_increasing_ring">Ativar</string>
     <string name="increasing_ring_min_volume_title">Volume inicial do toque</string>
@@ -2279,4 +2270,3 @@
     <string name="increasing_ring_interval_5seconds">5 segundos</string>
     <string name="increasing_ring_interval_10seconds">10 segundos</string>
 </resources>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
