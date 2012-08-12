@@ -2822,8 +2822,6 @@
     <!-- Advanced tethering settings -->
     <string name="tethering_advanced_text">Advanced</string>
     <string name="tethering_lease_time_text">DHCP lease time</string>
-<<<<<<< HEAD
-=======
     <string name="dhcp_lease_30mn">30 minutes</string>
     <string name="dhcp_lease_1h">1 hour (default)</string>
     <string name="dhcp_lease_2h">2 hours</string>
@@ -2831,7 +2829,6 @@
     <string name="dhcp_lease_6h">6 hours</string>
     <string name="dhcp_lease_12h">12 hours</string>
     <string name="dhcp_lease_24h">24 hours</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Wireless controls, item title to go into the network settings -->
     <string name="network_settings_title">Mobile networks</string>
@@ -4545,7 +4542,6 @@ found in the list of installed apps.</string>
     <string name="profile_unknown_nfc_tag">Unknown profile</string>
     <string name="profile_add_nfc_text">This NFC tag refers to an unknown profile. Attaching this NFC tag to an existing profile will allow for selecting the profile in the future.</string>
     <string name="profile_select">Select profile</string>
-<<<<<<< HEAD
 
     <string name="statusbar_transparency_title">Statusbar Transparency</string> 
     <string name="statusbar_transparency_summary">Adjust statusbar transparency</string> 
@@ -4570,8 +4566,6 @@ found in the list of installed apps.</string>
     <string name="recent_apps_icon_summary">App icon visibility</string>
     <string name="recent_apps_font_size_title">Font size</string>
     <string name="recent_apps_font_size_summary">App name font size</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">Show icon when using stylus</string>
@@ -4584,7 +4578,6 @@ found in the list of installed apps.</string>
     <string name="status_bar_notif_count_title">Show notification count</string>
     <string name="status_bar_notif_count_summary">Display number of pending notifications on the status bar</string>
 
-<<<<<<< HEAD
     <string name="status_bar_max_notifications_title">Number of notification icons</string>
     <string name="status_bar_max_notifications_summary">Applies to portrait mode</string>
 
@@ -4592,8 +4585,6 @@ found in the list of installed apps.</string>
     <string name="status_bar_hw_acceleration">Hardware acceleration</string>
     <string name="status_bar_hw_acceleration_summary">Enables hardware acceleration on statusbar. This may reduce battery life (requires reboot)</string>
 
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="increasing_ring_title">Ascending ringtone</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
     <string name="checkbox_increasing_ring">Enable</string>
