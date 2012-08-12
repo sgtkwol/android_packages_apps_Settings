@@ -1751,30 +1751,20 @@
     <string name="weather_use_custom_location">Użyj niestandardowej lokalizacji</string>
     <string name="weather_geolocated">Geolokacja przez sieć</string>
     <string name="weather_custom_location_dialog_title">Podaj lokalizację</string>
-<<<<<<< HEAD
     <string name="weather_custom_location_dialog_message">Uwaga: Podanie błędnej lokalizacji spowoduje zatrzymanie aktualizacji.</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_custom_location_hint">Miasto, Stan/Państwo</string>
     <string name="weather_custom_location_title">Lokalizacja</string>
     <string name="weather_show_location_title">Pokaż lokalizację</string>
     <string name="weather_show_timestamp_title">Pokaż datę</string>
     <string name="weather_refresh_interval">Częstotliwość aktualizacji</string>
-<<<<<<< HEAD
     <string name="weather_update">Aktualizacja</string>
     <string name="weather_use_metric">Używaj jednostek metrycznych</string>
     <string name="weather_refreshing">Aktualizacja pogody</string>
-=======
-    <string name="weather_use_metric">Używaj jednostek metrycznych</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_retrieve_location_dialog_title">Nie można odnaleźć lokalizacji!</string>
     <string name="weather_retrieve_location_dialog_message">Geolokacja przez sieć jest wyłączona.\n\nWprowadź niestandardową lokalizację albo włącz lokalizację przez sieć</string>
     <string name="weather_retrieve_location_dialog_enable_button">Włącz</string>
     <string name="weather_invert_lowhigh">Odwróć niską/wysoką temperaturę</string>
-<<<<<<< HEAD
-=======
     <string name="weather_progress_title">Weryfikacja lokalizacji</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
     <!-- Lock screen Weather - Update frequency -->
     <string name="weather_refresh_manual">Ręcznie</string>
@@ -1811,9 +1801,6 @@
     <string name="calendar_metadata_first_line">Pokaż pierwszą linię</string>
     <string name="calendar_metadata_all">Pokaż wszystko</string>
 
-<<<<<<< HEAD
-    <!-- Screen security - Screen security  #CM -->
-=======
     <!-- Lock screen background -->
     <string name="lockscreen_custom_background_title">Tło</string>
     <string name="lockscreen_custom_background_dialog_title">Wybierz kolor</string>
@@ -1824,7 +1811,6 @@
     <string name="lockscreen_background_default_wallpaper">Domyślna tapeta</string>
 
     <!-- Screen security #CM -->
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="screen_security_category">Zabezpieczenia ekranu</string>
     <string name="screen_security_title">Ekran blokady</string>
     <string name="screen_security_summary">Zmień ustawienia bezpieczeństwa i opóźnienia ekranu blokady</string>
