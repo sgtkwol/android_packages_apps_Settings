@@ -2002,22 +2002,15 @@
     <string name="weather_use_custom_location">השתמש במיקום מותאם</string>
     <string name="weather_geolocated">מיקום מבוסס רשת</string>
     <string name="weather_custom_location_dialog_title">הכנס מיקום</string>
-<<<<<<< HEAD
     <string name="weather_custom_location_dialog_message">אזהרה: הכנסת מיקום שגוי יפסיק את העדכונים</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_custom_location_hint">עיר, מדינה</string>
     <string name="weather_custom_location_title">מיקום</string>
     <string name="weather_show_location_title">הצג מיקום</string>
     <string name="weather_show_timestamp_title">הצג זמן</string>
     <string name="weather_refresh_interval">שיעור עדכונים</string>
-<<<<<<< HEAD
     <string name="weather_update">עדכון</string>
-    <string name="weather_use_metric">השתמש בשיטה מטרית</string>
     <string name="weather_refreshing">מעדכן מזג אוויר</string>
-=======
     <string name="weather_use_metric">השתמש בשיטה מטרית</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_retrieve_location_dialog_title">אין אפשרות לקבוע מיקום!</string>
     <string name="weather_retrieve_location_dialog_message">קביעת מיקום על פי רשת לא פעילה.\n\nקבע מיקום מותאם או אפשר מיקום מבוסס רשת</string>
     <string name="weather_retrieve_location_dialog_enable_button">אפשר</string>
