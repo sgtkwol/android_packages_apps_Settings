@@ -1393,11 +1393,6 @@
         <activity android:name=".profiles.NFCProfileWriter" />
 
         <activity android:name=".profiles.NFCProfileSelect" />
-<<<<<<< HEAD
-=======
-
-        <activity android:name=".cyanogenmod.LockscreenTargets" />
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 
         <activity android:name=".cyanogenmod.LockscreenTargets" />
 	
