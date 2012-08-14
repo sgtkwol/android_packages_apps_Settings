@@ -435,13 +435,9 @@
     <string name="cm_brightness_mode_auto">"Automatico"</string>
     <string name="cm_brightness_mode_dim">"Oscuro"</string>
     <string name="pref_network_mode_title">"Modalità di rete"</string>
-<<<<<<< HEAD
     <string name="pref_network_mode_summary">"Scegli come l\'interruttore della modalità di rete modifica il tipo di rete"</string>
-    <string name="pref_screentimeout_mode_title">"Modalità sospensione schermo"</string>
     <string name="pref_screentimeout_mode_summary">"Scegli come l\'interruttore di sospensione schermo modifica i tempi di sospensione"</string>
-=======
     <string name="pref_screentimeout_mode_title">"Modalità sospensione schermo"</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="pref_ring_mode_title">"Modalità suoneria"</string>
     <string name="pref_ring_mode_summary">"Visualizza o modifica gli effetti del pulsante audio"</string>
     <string name="cm_sound_mode_silent">"Silenzioso"</string>
@@ -449,11 +445,8 @@
     <string name="cm_sound_mode_sound">"Suoneria"</string>
     <string name="cm_sound_mode_soundVibrate">"Suoneria + Vibrazione"</string>
     <string name="pref_flash_mode_title">"Modalità torcia LED"</string>
-<<<<<<< HEAD
     <string name="pref_flash_mode_summary">"Scegli l\'intensità della torcia LED"</string>
     <string name="toggles_not_enough_space">Lo spazio è limitato a sei interruttori</string>
-=======
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="expanded_haptic_feedback_title">"Vibrazione al tocco"</string>
     <string name="status_bar_title">"Barra di stato"</string>
     <string name="status_bar_clock_title">"Orologio"</string>
@@ -488,11 +481,7 @@
     <string name="lockscreen_weather_summary">Visualizza informazioni meteo nella schermata di blocco</string>
     <string name="lockscreen_weather_enabled">Abilitato</string>
     <string name="weather_enable">Visualizza meteo</string>
-<<<<<<< HEAD
-    <string name="weather_source">Yahoo! Weather</string>
-=======
     <string name="weather_source">Yahoo! Meteo</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
     <string name="weather_use_custom_location">Posizione personalizzata</string>
     <string name="weather_geolocated">Geolocalizzazione usando la rete cellulare</string>
     <string name="weather_custom_location_dialog_title">Inserisci posizione</string>
@@ -2104,9 +2093,7 @@
     <string name="device_hostname">Hostname dispositivo</string>
     <string name="status_bar_notif_count_title">Contatore notifiche</string>
     <string name="status_bar_notif_count_summary">Visualizza il numero di notifiche in sospeso nella barra di stato</string>
-<<<<<<< HEAD
     <string name="powerwidget_screen_timeout_toast">Timeout schermo impostato: %1$d %2$s</string>
-=======
     <string name="increasing_ring_title">Suoneria incrementale</string>
     <string name="checkbox_increasing_ring">Attiva</string>
     <string name="increasing_ring_min_volume_title">Volume di partenza</string>
@@ -2119,5 +2106,4 @@
     <string name="increasing_ring_interval_3seconds">3 secondi</string>
     <string name="increasing_ring_interval_5seconds">5 secondi</string>
     <string name="increasing_ring_interval_10seconds">10 secondi</string>
->>>>>>> 5841d9ea2401e41a77980699de512e8e15506feb
 </resources>
