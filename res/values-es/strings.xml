@@ -2288,10 +2288,6 @@
     <string name="stylus_icon_enabled_summary">Mostrar el cursor cuando se arrastra o dibuja con Stylus</string>
     <!-- Hostname setting -->
     <string name="device_hostname">Nombre del dispositivo</string>
-
-    <string name="status_bar_notif_count_title">Conteo de notificaciones</string>
-    <string name="status_bar_notif_count_summary">Mostrar numero de notificaciones pendientes en la barra de estado</string>
-
     <string name="status_bar_max_notifications_title">Numero de notificaciones</string>
     <string name="status_bar_max_notifications_summary">Aplica para el módo retrato</string>
 
@@ -2299,9 +2295,6 @@
     <string name="status_bar_hw_acceleration">Aceleración por hardware</string>
     <string name="status_bar_hw_acceleration_summary">Activa la aceleración por hardware en la barra de estado. Esto podría reducir la duración de la bateria. (requiere reiniciar)</string>
     <string name="increasing_ring_title">Tono incremental</string>
-
-    <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
-    <string name="checkbox_increasing_ring">Activar</string>
   
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Mostrar contador notificaciones</string>

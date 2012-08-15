@@ -2210,57 +2210,6 @@
     <string name="profile_add_nfc_text">Ten tag NFC odnosi się do nieznanego profilu. Połączenie tego tagu z już istniejącym profilem pozwoli na wybranie go w przyszłości.</string>
     <string name="profile_select">Wybierz profil</string>
 
-    <!-- Title for checkbox menu option to enable linear chart. [CHAR LIMIT=32] -->
-    <string name="data_usage_menu_linear_chart">Wykres liniowy</string>
-    <string name="wifi_adhoc_first_item">Sieć Ad-hoc</string>
-    <string name="wifi_adhoc_second_item">\u0020(sieć ad-hoc)</string>
-    <string name="wifi_p2p_on_summary">Włącz Wifi direct</string>
-    <string name="wifi_p2p_settings">Ustawienia Wifi direct</string>
-
-    <!-- String for ShortcutPickHelper -->
-    <string name="picker_activities">Aktywności</string>
-    <string name="select_custom_app_title">Wybierz niestandardową aplikację</string>
-    <string name="select_custom_activity_title">Wybierz niestandardową aktywność</string>
-    <string name="icon_picker_choose_icon_title">Wybierz ikonę</string>
-    <string name="icon_picker_alarm">Budzik</string>
-    <string name="icon_picker_browser">Przeglądarka</string>
-    <string name="icon_picker_calendar">Kalendarz</string>
-    <string name="icon_picker_camera">Aparat</string>
-    <string name="icon_picker_gallery">Galeria</string>
-    <string name="icon_picker_maps">Mapy</string>
-    <string name="icon_picker_movie">Filmy</string>
-    <string name="icon_picker_music">Muzyka</string>
-    <string name="icon_picker_nav_normal">Nawigacja</string>
-    <string name="icon_picker_phone">Telefon</string>
-    <string name="icon_picker_rss">Czytnik RSS</string>
-    <string name="icon_picker_sms">SMS/MMS</string>
-
-    <!-- String for IconPicker -->
-    <string name="icon_picker_title">Wybierz źródło ikony</string>
-    <string name="icon_picker_system_icons_title">Ikony systemowe</string>
-    <string name="icon_picker_gallery_title">Galeria</string>
-    <string name="icon_picker_pack_title">Paczka ikon</string>
-
-    <!-- Safe headset volume restore checkbox -->
-    <string name="safe_headset_restore_title">Bezpieczna głośność</string>
-    <string name="safe_headset_restore_summary">Zapobiega wysokiej głośności, gdy zestaw słuchawkowy zostaje po raz pierwszy podłączony</string>
-
-    <!-- Whether to display IME switcher notifcation -->
-    <string name="ime_switcher_notify">Powiadomienie wyboru</string>
-    <string name="ime_switcher_notify_summary">Pokaż powiadomienie o wyborze metody wprowadzania</string>
-
-    <!-- Electron Beam -->
-    <string name="display_category_animation_options_title">Animacja</string>
-    <string name="display_electron_beam_animation_on_title">Animacja włączania ekranu</string>
-    <string name="display_electron_beam_animation_off_title">Animacja wyłączania ekranu</string>
-
-    <!-- Stylus Icon -->
-    <string name="stylus_icon_enabled_title">Pokaż użycie stylusa</string>
-    <string name="stylus_icon_enabled_summary">Pokaż ikonę wskaźnika w trakcie korzystania ze stylusa</string>
-
-    <!-- Hostname setting -->
-    <string name="device_hostname">Nazwa hosta urządzenia</string>
-
     <!-- Status bar notification count -->
     <string name="status_bar_notif_count_title">Pokaż ilość powiadomień</string>
     <string name="status_bar_notif_count_summary">Pokaż ilość oczekujących powiadomień na pasku stanu</string>
